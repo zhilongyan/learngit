@@ -9,4 +9,8 @@ creating a new branch is quick and simple
 
 新增加东西
 
+
 完善新的东西
+
+修改bug
+
